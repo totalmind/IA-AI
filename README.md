@@ -2,11 +2,11 @@
 # 人工智能全局认知报告
 ## 项目概述
 形成对人工智能领域，涵盖科研、商业及职业的全局认识。
-# 会议纪要
-[20190410人工智能小组会议纪要（M06）](meetingMinutes/20190410-meeting-6)
-[20190409人工智能小组会议纪要（M05）](meetingMinutes/20190409-meeting-5)
-[20190408人工智能小组会议纪要（M04）](meetingMinutes/20190408-meeting-4)
-[20190407人工智能小组会议纪要（M03）](meetingMinutes//20190407-meeting-3)
+# 会议纪要  
+-  [20190410人工智能小组会议纪要（M06）](meetingMinutes/20190410-meeting-6.md)
+-  [20190409人工智能小组会议纪要（M05）](meetingMinutes/20190409-meeting-5.md)
+- [20190408人工智能小组会议纪要（M04）](meetingMinutes/20190408-meeting-4.md)
+- [20190407人工智能小组会议纪要（M03）](meetingMinutes//20190407-meeting-3.md)  
 ##团队成员
 - 初开
 软件工程师，个人站：[chukai.link](http://chukai.link)
