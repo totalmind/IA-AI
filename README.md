@@ -1,22 +1,17 @@
 [TOC]
-# IA-AI
-# 1.项目名称：人工智能全局认知项目
-## 1.1项目概述
-### 1.1.1项目简介
-形成对人工智能领域的，涵盖学术和商业的全局认识
-Git：[IA-AI](https://github.com/totalmind/IA-AI)
-### 1.1.2作业执行计划（可后续更新）
-- 1.信息获取  
-1. [想法收集汇总](https://github.com/totalmind/IA-AI/ideas.md)
-- 2.信息整理
-- 3.信息加工
-- 4.信息报告
-
-## 团队成员介绍
+# 人工智能全局认知报告
+## 项目概述
+形成对人工智能领域，涵盖科研、商业及职业的全局认识。
+# 会议纪要
+[20190410人工智能小组会议纪要（M06）](meetingMinutes/20190410-meeting-6)
+[20190409人工智能小组会议纪要（M05）](meetingMinutes/20190409-meeting-5)
+[20190408人工智能小组会议纪要（M04）](meetingMinutes/20190408-meeting-4)
+[20190407人工智能小组会议纪要（M03）](meetingMinutes//20190407-meeting-3)
+##团队成员
 - 初开
-软件工程师
+软件工程师，个人站：[chukai.link](http://chukai.link)
 - rodean-深圳
-产品运营，目前正准备负责一款人工智能产品
+产品运营，目前正准备负责一款人工智能产品。
 - rosy-深圳
 数据挖掘工程师，一直在自学机器学习
 - 王梦浩-杭州
@@ -34,17 +29,16 @@ Git：[IA-AI](https://github.com/totalmind/IA-AI)
 - [] 制作ppt、完善报告
 - [] 提交项目材料
 - [] 准备路演逐字稿
-# 问题
-## 问题 1
+
+
 
 # 其他
 - 协作工具
     - zotero：[zotero|Groups>IA-AI](https://www.zotero.org/groups/2307357/ia-ai)
-- 项目看板
-    - [IA-AI项目任务及进度看板](https://github.com/totalmind/IA-AI/projects/1)
 
 ## CHANGELOG
-- 190406 补充信息
+- 190406 补充信息 ~ 初开
+- 190111  补充会议纪要 ~初开
 
 
 
