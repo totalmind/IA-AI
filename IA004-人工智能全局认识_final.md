@@ -607,21 +607,21 @@ nathan Benaich的nathan.ai时事通讯
 对齐时事通讯
 Elvis Saravia的AI日记
 Creative AI时事通讯
-Elvis Saravia的NLP通讯
+Elvis Saravia的NLP通讯 
 
 
 ##参考文献 
 1. 国务院“关于印发新一代人工智能发展规划的通知”
-2.美国“国家人工智能研究和发展战略计划”
-3.中国人工智能发展报告2018
+2. 美国“国家人工智能研究和发展战略计划”
+3. 中国人工智能发展报告2018
 4.  “ AI指数2018 ”
-5.美国“为人工智能的未来做好准备”
-6.网站查询： https://www.aminer.cn
+5. 美国“为人工智能的未来做好准备”
+6. 网站查询： https://www.aminer.cn
 7. “2018中国人工智能传业投资趋势分析”
-8.俞军，[ 产品经理的价值，天赋，能力，成长及未来 ]（https://36kr.com/p/5081305）
+8. 俞军，[ 产品经理的价值，天赋，能力，成长及未来 ]（https://36kr.com/p/5081305）
 9. “人工智能产品经理”张竞宇<https://book.douban.com/subject/30245174/>
-10.如何成为一名人工智能产品经理？<https://36kr.com/p/5059871?from=related>
-11.吴恩达NIPS 2016演讲现场直击：如何使用深度学习开发人工智能应用？<https://36kr.com/p/5058411>
+10. 如何成为一名人工智能产品经理？<https://36kr.com/p/5059871?from=related>
+11. 吴恩达NIPS 2016演讲现场直击：如何使用深度学习开发人工智能应用？<https://36kr.com/p/5058411>
 12. AI产品经理的定义和分类<https://www.tinymind.cn/articles/683>
-13.深度对话俞军：关于产品经理的价值，天赋，能力，成长及未来，最系统的分享<https://mp.weixin.qq.com/s/NtkteW1oXQNRb6Av63yu6A>
+13. 深度对话俞军：关于产品经理的价值，天赋，能力，成长及未来，最系统的分享<https://mp.weixin.qq.com/s/NtkteW1oXQNRb6Av63yu6A>
 14. AI产品经理的价值和未来| 学习俞军老师分享有感<https://mp.weixin.qq.com/s/1JFP2cUj50vj05OONOcl1A>
