@@ -2,8 +2,8 @@
 
 ## 0.1 小组成员
 
-队长：初开
-队员：王梦浩 Rosy Rodean
+- 队长：初开
+- 队员：王梦浩 Rosy Rodean
 
 成员简介以及1小时完成组队过程：[https://m.openmindclub.com/stu/IA004/discussion/82b806ce-3d1e-4b9f-b982-dadd93388b10](https://m.openmindclub.com/stu/IA004/discussion/82b806ce-3d1e-4b9f-b982-dadd93388b10)
 
